@@ -8,4 +8,4 @@ O projeto de git esta na pasta projetoGit
 
 ## Tags
 
-Adicionado tag ao projeto'
+Adicionado tag ao projeto
